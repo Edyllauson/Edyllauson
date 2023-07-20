@@ -9,7 +9,7 @@
 <img align="center" alt="Edy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Edy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Edy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Edy-sass" height="30" width="40" scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)">
+<img align="center" alt="Edy-sass" height="30" width="40" scr="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)">
           
 </div>
 
