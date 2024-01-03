@@ -3,7 +3,7 @@
 ![Edyllauson GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyllauson&show_icons=true&theme=radical)
 
 Meu portifolio 
-<a scr="https://edyllausonwebcom.godaddysites.com">
+<a scr="https://edyllausonwebcom.godaddysites.com"></a>
 
 
 ## Minhas áreas de Desenvovimento
