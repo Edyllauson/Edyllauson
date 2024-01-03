@@ -2,6 +2,9 @@
 
 ![Edyllauson GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyllauson&show_icons=true&theme=radical)
 
+Meu portifolio 
+<a scr="https://edyllausonwebcom.godaddysites.com">
+
 
 ## Minhas áreas de Desenvovimento
 <div style="display: inline_block"><br>
@@ -21,5 +24,5 @@
   <a href="https://instagram.com/edyllauson__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/21mll2dkoor2npznsitln5svq"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"</a>
      <a href = "edyllauson.computerscience@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
+
    
