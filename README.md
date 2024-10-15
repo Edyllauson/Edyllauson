@@ -2,9 +2,6 @@
 
 ![Edyllauson GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyllauson&show_icons=true&theme=radical)
 
-Meu portifolio 
-<a href="https://edyllausonwebcom.godaddysites.com">Visite meu site</a>
-
 # 👋 Hi there
 Sou Edyllauson Alves, um desenvolvedor de software apaixonado e entusiasta de tecnologia. Estou no último período do curso de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento front-end. Durante minha trajetória acadêmica, tive a oportunidade de trabalhar em diversos projetos pessoais e acadêmicos, explorando diferentes tecnologias.
 
@@ -33,8 +30,11 @@ Além das habilidades técnicas, desenvolvi um crescente interesse por compartil
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
+# Meu Portfólio
+<a href="https://edyllausonwebcom.godaddysites.com">Visite meu site</a> 
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/edyllauson__)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edyllauson-alves-370b82289/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edyllauson-alves-370b82289/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:edyllauson.computerscience@gmail.com)
 
