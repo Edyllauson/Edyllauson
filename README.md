@@ -1,6 +1,7 @@
 ## Oiii eu sou o Edyllauson, estudante de programação e tecnologia!
 
-![Edyllauson GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyllauson&show_icons=true&theme=radical)
+![Edyllauson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edyllauson&theme=midnight-purple)
+
 
 # 👋 Hi there
 Sou Edyllauson Alves, um desenvolvedor de software apaixonado e entusiasta de tecnologia. Estou no último período do curso de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento front-end. Durante minha trajetória acadêmica, tive a oportunidade de trabalhar em diversos projetos pessoais e acadêmicos, explorando diferentes tecnologias.
